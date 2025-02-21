@@ -1,3 +1,5 @@
+![Monk Mode Banner](https://i.pinimg.com/736x/58/e6/f4/58e6f477f6f63af42c2e8a23befda2f9.jpg)
+
 # 🧘‍♂️ Monk Mode - The Ultimate Focus Workspace
 
 ## 🚀 Description
@@ -42,7 +44,12 @@ Monk Mode is built to eliminate distractions and **create an environment where y
 ---
 
 ## 🌐 Preview Link
-🚀 **Try Monk Mode Now:** [Live Demo](https://themonkmode.vercel.app/)
+🚀 **Try Monk Mode Now:** [Live Demo](https://your-live-preview-link.com)
+
+---
+
+## 🖼️ Image Preview
+![Monk Mode Preview](https://i.pinimg.com/736x/e7/54/f9/e754f9d9147d782ce92eca92312d2bc5.jpg)
 
 ---
 
@@ -52,3 +59,7 @@ If you struggle with **procrastination and lack of focus**, Monk Mode is the per
 ✅ **Eliminate distractions, enter deep focus, and get things done.**
 
 🧘‍♂️ **Activate Monk Mode Now!** 🚀
+
+---
+
+![Monk Mode End](https://i.pinimg.com/736x/b3/1a/49/b31a49fed4bd3300e308f763dc83f331.jpg)
